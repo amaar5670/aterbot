@@ -1,8 +1,8 @@
 {
 	"client": {
-		"host": "sftp://emerald.magmanode.com",
-		"port": "2022",
-		"username": "onlinebot"
+		"host": "emerald.magmanode.com",
+		"port": "34264",
+		"username": "online1"
 	},
 	
 	"! DO NOT EDIT BELOW !": "ONLY IF YOU KNOW WHAT YOU ARE DOING",

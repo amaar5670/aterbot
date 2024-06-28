@@ -1,6 +1,6 @@
 {
 	"client": {
-		"host": "newerasmp.funserver.top",
+		"host": "tcp://newerasmp.funserver.top",
 		"port": "25575",
 		"username": "onlinebot"
 	},

@@ -64,8 +64,9 @@ const createBot = (): void => {
 	});
 	bot.once('login', () => {
 		console.log(`AFKBot logged in ${bot.username}\n\n`);
+		bot.chat("/register abcdehyjkl")
 	});
-	bot.chat("/register abcdehyjkl") 
+	
 };
 
 
